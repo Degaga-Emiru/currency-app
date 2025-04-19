@@ -29,7 +29,7 @@ yarn install
 npm start
 # or
 yarn start
-Your app will be live at http://localhost: 517 🚀
+Your app will be live at http://localhost: 5173 🚀
 
 📁 Project Structure
 currency-converter-app/
