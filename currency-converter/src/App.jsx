@@ -230,6 +230,7 @@ function App() {
               className={`w-full p-3 rounded-lg border ${darkMode ? 'bg-gray-700 border-gray-600 text-white' : 'bg-white border-gray-300 text-gray-800'}`}
               min="0"
               step="0.01"
+              placeholder="Enter the amount to convert"
             />
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
