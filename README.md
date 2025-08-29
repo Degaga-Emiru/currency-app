@@ -1,3 +1,4 @@
+# Currency Converter App
 🌍💱 Currency Converter App
 A modern and responsive Currency Converter Application built with React and Tailwind CSS. Easily convert between 164+ world currencies in real-time with a sleek UI, dark mode, and a fully responsive layout that works across devices.
 
