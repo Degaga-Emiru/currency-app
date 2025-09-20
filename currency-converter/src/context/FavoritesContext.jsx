@@ -1,3 +1,4 @@
+// this is Favorite Components 
 import { createContext, useState, useEffect } from 'react'
 
 export const FavoritesContext = createContext()
