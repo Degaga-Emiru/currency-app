@@ -48,7 +48,7 @@ currency-converter-app/
 
 🌍 Add multi-language support
 
-🔐 Save user preferences with local storage or authentication
+🔐 Save user preferences with local storage or authentication for future it is updated and connected with backend server
 
 📃 License
 This project is licensed under the MIT License.
