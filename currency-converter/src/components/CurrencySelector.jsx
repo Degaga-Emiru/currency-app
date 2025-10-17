@@ -3,7 +3,7 @@ const allCurrencies = [
   'USD', 'EUR', 'GBP', 'JPY', 'AUD', 'CAD', 'CHF', 'CNY', 'SEK', 'NZD',
   'MXN', 'SGD', 'HKD', 'NOK', 'KRW', 'TRY', 'INR', 'BRL', 'ZAR', 'RUB'
 ]
-
+//this is the section where user select the price like dollar, euro and etc
 export default function CurrencySelector({ 
   label, 
   currency, 
