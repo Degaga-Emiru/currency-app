@@ -1,3 +1,4 @@
+//contain the faq section of the website
 import React from 'react';
 import { FaQuestionCircle } from 'react-icons/fa';
 
