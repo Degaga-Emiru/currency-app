@@ -1,3 +1,4 @@
+//this contain the conversion result
 export default function ConversionResult({ amount, fromCurrency, toCurrency, exchangeRate, loading, error }) {
     if (error) return <div className="text-red-500">{error}</div>
     if (loading) return <div className="text-center">Loading...</div>
