@@ -1,3 +1,4 @@
+//contain the Currency card of some countires
 import React from 'react';
 
 const currencyCards = [
