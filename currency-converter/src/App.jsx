@@ -1,3 +1,4 @@
+//App.jsx files which contain the heart of the program
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 import { FaSun, FaMoon, FaExchangeAlt } from 'react-icons/fa';
